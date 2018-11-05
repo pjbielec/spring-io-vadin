@@ -13,6 +13,7 @@ import javax.persistence.Id;
 @Getter
 @Setter
 @AllArgsConstructor
+@NoArgsConstructor
 public class Customer {
 
     @Id
